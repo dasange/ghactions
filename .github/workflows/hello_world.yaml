@@ -20,6 +20,6 @@ jobs:
   goodbye:
     runs-on: ubuntu-latest
     steps:
-      - name: goodbye world
-        run: echo "goodbye world"
+      - name: iamback
+        run: echo "I am back"
         shell: bash
